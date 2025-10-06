@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Last Commit](https://badgen.net/github/last-commit/pantsman-jp/pantsman-jp.github.io)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
