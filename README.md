@@ -1,6 +1,6 @@
 # Hi👋
 
-I’m pantsman, a Japanese student.
+I’m pantsman.
 
 ## Status
 
