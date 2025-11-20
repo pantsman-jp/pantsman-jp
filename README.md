@@ -35,10 +35,10 @@ Python program for generating random dungeon maps.
 A Python game developing as part of a team project in a Project-Based-Learning class.
 
 ## [⚫ ⚪ Othello](https://github.com/pantsman-jp/Othello)
-Simple Othello (Reversi) game in Python.
+Simple Othello game in Python.
 
 ## [🧪 Vitro](https://github.com/pantsman-jp/Vitro)
-Development of a custom programming language in Haskell.
+Development of a programming language in Haskell.
 
 ## [👥 Is-Cafeteria-Crowded](https://github.com/pantsman-jp/Is-Cafeteria-Crowded)
 Web app to check cafeteria crowd levels.
