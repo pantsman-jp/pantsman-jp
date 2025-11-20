@@ -1,6 +1,5 @@
 # Hi 👋
-I’m pantsman.  
-I'm working on various programming projects.
+I’m pantsman.
 
 ## Status
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pantsman-jp)
@@ -13,7 +12,7 @@ Python program for generating random dungeon maps.
 ### [🎮 PBL_Game](https://github.com/pantsman-jp/PBL_Game)
 A Python game developing as part of a team project in a Project-Based-Learning class.
 
-### [⚫⚪ Othello](https://github.com/pantsman-jp/Othello)
+### [⚫ ⚪ Othello](https://github.com/pantsman-jp/Othello)
 Simple Othello (Reversi) game in Python.
 
 ### [🧪 Vitro](https://github.com/pantsman-jp/Vitro)
@@ -35,7 +34,7 @@ Python program for generating random dungeon maps.
 ### [🎮 PBL_Game](https://github.com/pantsman-jp/PBL_Game)
 A Python game developing as part of a team project in a Project-Based-Learning class.
 
-### [⚫⚪ Othello](https://github.com/pantsman-jp/Othello)
+### [⚫ ⚪ Othello](https://github.com/pantsman-jp/Othello)
 Simple Othello (Reversi) game in Python.
 
 ### [🧪 Vitro](https://github.com/pantsman-jp/Vitro)
