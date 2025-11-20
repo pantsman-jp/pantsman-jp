@@ -25,8 +25,9 @@ Web app to check cafeteria crowd levels.
 ### [🚆 train-navi](https://github.com/pantsman-jp/train-navi)
 Train transfer navigation tool for Kyutech students. -->
 
+## What I Made
 <details>
-<summary>What I Made</summary>
+<summary>Show detail</summary>
 
 ### [🗺️ Dungeon_Generator](https://github.com/pantsman-jp/Dungeon_Generator)
 Python program for generating random dungeon maps.
