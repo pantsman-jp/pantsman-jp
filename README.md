@@ -17,7 +17,7 @@ Python program for generating random dungeon maps.
 A Python game developing as part of a team project in a Project-Based-Learning class.
 
 ## [💪 Shojin](https://github.com/pantsman-jp/Shojin)
-Solutions to competitive programming problems solved on [AtCoder](https://atcoder.jp)
+Solutions to competitive programming problems solved on AtCoder.
 
 ## [⚫⚪ Othello](https://github.com/pantsman-jp/Othello)
 Simple Othello game in Python.
