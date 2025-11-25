@@ -16,6 +16,9 @@ Python program for generating random dungeon maps.
 ## [🎮 PBL-Game](https://github.com/pantsman-jp/PBL-Game)
 A Python game developing as part of a team project in a Project-Based-Learning class.
 
+## [💪 Shojin](https://github.com/pantsman-jp/Shojin)
+Solutions to competitive programming problems solved on [AtCoder](https://atcoder.jp)
+
 ## [⚫⚪ Othello](https://github.com/pantsman-jp/Othello)
 Simple Othello game in Python.
 
