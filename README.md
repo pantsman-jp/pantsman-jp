@@ -9,10 +9,8 @@ I’m pantsman.
 -->
 
 # What I Made
-<!--
 <details>
 <summary>Show detail</summary>
--->
 
 ## [🗺️ Dungeon-Generator](https://github.com/pantsman-jp/Dungeon-Generator)
 Python program for generating random dungeon maps.
@@ -35,6 +33,4 @@ Web app to check cafeteria crowd levels.
 ## [🚆 Train-Navi](https://github.com/pantsman-jp/Train-Navi)
 Train transfer navigation tool for Kyutech students.
 
-<!--
 </details>
--->
