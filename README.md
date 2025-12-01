@@ -1,14 +1,18 @@
 # Hi 👋
 I’m pantsman.
 
+<!--
 # Status
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pantsman-jp) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pantsman-jp)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pantsman-jp&layout=compact)
 ![Trophy](https://github-profile-trophy.vercel.app/?username=pantsman-jp&theme=juicyfresh&no-bg=true)
+-->
 
 # What I Made
+<!--
 <details>
 <summary>Show detail</summary>
+-->
 
 ## [🗺️ Dungeon-Generator](https://github.com/pantsman-jp/Dungeon-Generator)
 Python program for generating random dungeon maps.
@@ -31,4 +35,6 @@ Web app to check cafeteria crowd levels.
 ## [🚆 Train-Navi](https://github.com/pantsman-jp/Train-Navi)
 Train transfer navigation tool for Kyutech students.
 
+<!--
 </details>
+-->
