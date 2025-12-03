@@ -10,7 +10,7 @@ I’m pantsman.
 
 # What I Made
 <details>
-<summary>Show detail</summary>
+<summary>Show Detail</summary>
 
 ## [🗺️ Dungeon-Generator](https://github.com/pantsman-jp/Dungeon-Generator)
 Python program for generating random dungeon maps.
