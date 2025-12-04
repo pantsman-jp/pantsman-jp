@@ -2,10 +2,7 @@
 
 <div align="center">
   <img src="img/header.png">
-</div>
-
-<div align="center">
-    <img src="https://raw.githubusercontent.com/pantsman-jp/pantsman-jp/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/pantsman-jp/pantsman-jp/output/github-contribution-grid-snake.svg">
 </div>
 
 <!--
@@ -17,16 +14,13 @@
 
 # What I Made
 <details>
-<summary>Show Detail</summary>
+<summary><code>Show Detail</code> (click to expand)</summary>
 
 ## [🗺️ Dungeon-Generator](https://github.com/pantsman-jp/Dungeon-Generator)
 Python program for generating random dungeon maps.
 
 ## [🎮 PBL-Game](https://github.com/pantsman-jp/PBL-Game)
 A Python game developing as part of a team project in a Project-Based-Learning class.
-
-<!-- ## [💪 Shojin](https://github.com/pantsman-jp/Shojin)
-Solutions to competitive programming problems solved on AtCoder. -->
 
 ## [⚫⚪ Othello](https://github.com/pantsman-jp/Othello)
 Simple Othello game in Python.
