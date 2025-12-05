@@ -1,0 +1,23 @@
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 */1 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: img/github-contribution-grid-snake.svg
+      - name: commit files
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add dist/github-contribution-grid-snake.svg
+          git commit -m "update snake" || exit 0
+          git push

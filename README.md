@@ -1,9 +1,6 @@
 # Hi, I’m pantsman.
 
-<div align="center">
-  <!-- <img src="img/header2.png"> -->
-  <img src="https://raw.githubusercontent.com/pantsman-jp/pantsman-jp/output/github-contribution-grid-snake.svg">
-</div>
+![snake](./img/github-contribution-grid-snake.svg)
 
 <!--
 # Status
