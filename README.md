@@ -1,14 +1,14 @@
-# Hi, I’m pantsman.
+## Hi! I’m pantsman.
 
 ![snake](img/github-contribution-grid-snake.svg)
 
-# Status
-<!-- ![Stats](https://github-readme-stats.vercel.app/api?username=pantsman-jp)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pantsman-jp&layout=compact) -->
+<!-- # Status
+![Stats](https://github-readme-stats.vercel.app/api?username=pantsman-jp)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pantsman-jp&layout=compact)
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pantsman-jp)
 ![Streak Stats](https://streak-stats.demolab.com?user=pantsman-jp)
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pantsman-jp)
-![Trophy](https://github-profile-trophy.vercel.app/?username=pantsman-jp)
+![Trophy](https://github-profile-trophy.vercel.app/?username=pantsman-jp) -->
 
 # What I Made
 <details>
