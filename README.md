@@ -1,4 +1,4 @@
-## Hi! I’m pantsman.
+# Hi! I’m pantsman.
 
 ![snake](img/github-contribution-grid-snake.svg)
 
