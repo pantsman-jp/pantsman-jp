@@ -2,8 +2,8 @@
 
 ![snake](img/github-contribution-grid-snake.svg)
 
-# Languages and Tools
-![tools](https://skillicons.dev/icons?i=py,cpp,md,html,haskell,flask,git,github,vscode)
+<!-- # Languages and Tools
+![tools](https://skillicons.dev/icons?i=py,cpp,md,html,haskell,flask,git,github,vscode) -->
 
 # Status
 <!-- ![Stats](https://github-readme-stats.vercel.app/api?username=pantsman-jp)
@@ -15,7 +15,7 @@
 ![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pantsman-jp&utcOffset=9)
 ![Trophy](https://github-profile-trophy.vercel.app/?username=pantsman-jp)
 
-<!-- # What I Made
+# What I Made
 <details>
 <summary><code>Show Detail</code> (click to expand)</summary>
 
@@ -37,4 +37,4 @@ Web app to check cafeteria crowd levels.
 ## [🚆 Train-Navi](https://github.com/pantsman-jp/Train-Navi)
 Train transfer navigation tool for Kyutech students.
 
-</details> -->
+</details>
