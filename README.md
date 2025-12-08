@@ -3,7 +3,7 @@
 ![snake](img/github-contribution-grid-snake.svg)
 
 # Languages and Tools
-![tools](https://skillicons.dev/icons?i=cpp,py,haskell,html,md,flask,git,github,vscode,emacs)
+![tools](https://skillicons.dev/icons?i=py,cpp,md,html,haskell,flask,git,github,vscode)
 
 # Status
 <!-- ![Stats](https://github-readme-stats.vercel.app/api?username=pantsman-jp)
