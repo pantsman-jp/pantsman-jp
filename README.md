@@ -9,13 +9,10 @@
 <!-- ![Stats](https://github-readme-stats.vercel.app/api?username=pantsman-jp)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pantsman-jp&layout=compact) -->
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pantsman-jp)
-![Streak Stats](https://streak-stats.demolab.com?user=pantsman-jp)
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pantsman-jp)
-![Trophy](https://github-profile-trophy.vercel.app/?username=pantsman-jp)
-
-![contribution](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pantsman-jp)
 ![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pantsman-jp)
 ![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pantsman-jp)
+![Trophy](https://github-profile-trophy.vercel.app/?username=pantsman-jp)
+
 ![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pantsman-jp)
 ![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pantsman-jp&utcOffset=9)
 
