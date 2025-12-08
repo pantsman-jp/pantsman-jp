@@ -2,8 +2,8 @@
 
 ![snake](img/github-contribution-grid-snake.svg)
 
-# Languages and Tools:
-![tools](https://skillicons.dev/icons?i=py)
+# Languages and Tools
+![tools](https://skillicons.dev/icons?i=cpp,py,haskell,html,md,flask,git,github,vscode,emacs)
 
 # Status
 <!-- ![Stats](https://github-readme-stats.vercel.app/api?username=pantsman-jp)
@@ -11,10 +11,9 @@
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pantsman-jp)
 ![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pantsman-jp)
 ![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pantsman-jp)
-![Trophy](https://github-profile-trophy.vercel.app/?username=pantsman-jp)
-
 ![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pantsman-jp)
 ![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pantsman-jp&utcOffset=9)
+![Trophy](https://github-profile-trophy.vercel.app/?username=pantsman-jp)
 
 # What I Made
 <details>
