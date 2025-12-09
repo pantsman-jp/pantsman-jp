@@ -2,12 +2,16 @@
 
 ![snake](img/github-contribution-grid-snake.svg)
 
-<!-- # Languages and Tools
-![tools](https://skillicons.dev/icons?i=py,cpp,md,html,haskell,flask,git,github,vscode) -->
+<!--
+# Languages and Tools
+![tools](https://skillicons.dev/icons?i=py,cpp,md,html,haskell,flask,git,github,vscode)
+-->
 
 # Status
-<!-- ![Stats](https://github-readme-stats.vercel.app/api?username=pantsman-jp)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pantsman-jp&layout=compact) -->
+<!--
+![Stats](https://github-readme-stats.vercel.app/api?username=pantsman-jp)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pantsman-jp&layout=compact)
+-->
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pantsman-jp)
 ![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pantsman-jp)
 ![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pantsman-jp)
