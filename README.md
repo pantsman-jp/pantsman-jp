@@ -4,7 +4,7 @@
 
 <!--
 # Languages and Tools
-![tools](https://skillicons.dev/icons?i=py,cpp,md,html,haskell,flask,git,github,vscode)
+![tools](https://skillicons.dev/icons?i=py,cpp,haskell,md,latex,html,flask,git,github,vscode)
 -->
 
 # Status
