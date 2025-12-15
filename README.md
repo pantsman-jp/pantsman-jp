@@ -1,5 +1,4 @@
 # Hi! I’m pantsman.
-
 ![snake](img/github-contribution-grid-snake.svg)
 
 <!--
@@ -17,7 +16,7 @@
 ![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pantsman-jp)
 ![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pantsman-jp)
 ![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pantsman-jp&utcOffset=9)
-![Trophy](https://github-profile-trophy.vercel.app/?username=pantsman-jp)
+<!-- ![Trophy](https://github-profile-trophy.vercel.app/?username=pantsman-jp) -->
 
 <!--
 # What I Made
