@@ -8,16 +8,16 @@
 
 # Status
 
-![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pantsman-jp)
-![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pantsman-jp)
+![top-langs-by-repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pantsman-jp)
+![top-langs-by-commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pantsman-jp)
+![trophy](https://github-profile-trophy.vercel.app/?username=pantsman-jp)
 
 <!--
-![additional stats](https://github-readme-stats.vercel.app/api?username=pantsman-jp&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![additional-stats](https://github-readme-stats.vercel.app/api?username=pantsman-jp&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pantsman-jp)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pantsman-jp&layout=compact)
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pantsman-jp)
-![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pantsman-jp&utcOffset=9)
-![Trophy](https://github-profile-trophy.vercel.app/?username=pantsman-jp)
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pantsman-jp&layout=compact)
+![profile-details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pantsman-jp)
+![commit-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pantsman-jp&utcOffset=9)
 -->
 
 <!--
