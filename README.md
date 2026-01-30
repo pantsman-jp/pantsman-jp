@@ -7,7 +7,7 @@
 -->
 
 # 📊 GitHub Stats
-![detail-stats](https://github-readme-stats.vercel.app/api?username=pantsman-jp&count_private=true&include_all_commits=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![detailed-stats](https://github-readme-stats.vercel.app/api?username=pantsman-jp&count_private=true&include_all_commits=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 # 📝 Top Langs
 ![top-langs-by-repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pantsman-jp)
