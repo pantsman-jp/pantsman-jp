@@ -4,7 +4,7 @@
 
 <!--
 # 💻 Tech Stack
-![tools](https://skillicons.dev/icons?i=py,cpp,md,latex,html,css,js,flask,git,github,vscode,neovim)
+![tools](https://skillicons.dev/icons?i=py,cpp,haskell,md,latex,html,css,js,flask,git,github,vscode,neovim)
 ![---](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 -->
 
