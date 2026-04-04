@@ -2,14 +2,20 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e87a,100:007a3d&height=240&section=header&text=pantsman&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Student&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="pantsman banner"/>
 </div>
 
+<div align="center">
+
+![snake](../img/github-contribution-grid-snake.svg)
+
+</div>
+
 ### About
 
 <!-- bio -->
 
 - ⌖ **Location** · Kitakyushu, Japan
-- ⌗ **Experience** · 4th-year student
+- ⌗ **Experience** · 4th-year Student
 - ◎ **Education** · Kyushu Institute of Technology
-- ⟳ **Learning** · Design systems, prototyping workflows, and product storytelling
+- ⟳ **Learning** · learning
 - ✦ **Fun fact** · fun fact
 
 <!--### Stack
@@ -48,7 +54,7 @@
 
 ### Activity
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pantsman-jp&theme=minimal&hide_border=true&area=true)](https://github-readme-activity-graph.vercel.app/graph?username=pantsman-jp&theme=minimal&hide_border=true&area=true)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pantsman-jp&bg_color=ffffff&color=000000&line=9be9a8&point=40c463&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
