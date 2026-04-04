@@ -1,28 +1,67 @@
-# 👋 Hi! I’m pantsman
-![snake](img/github-contribution-grid-snake.svg)
-![---](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e87a,100:007a3d&height=240&section=header&text=pantsman&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Student&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="pantsman banner"/>
+</div>
 
-<!--
-# 💻 Tech Stack
-![tools](https://skillicons.dev/icons?i=py,cpp,haskell,md,latex,html,css,js,flask,git,github,vscode,neovim)
-![---](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
--->
+<div align="center">
 
-# 📊 GitHub Stats
+![snake](../img/github-contribution-grid-snake.svg)
+
+</div>
+
+### About
+
+<!-- bio -->
+
+- ⌖ **Location** · Kitakyushu, Japan
+- ⌗ **Experience** · 4th-year Student
+- ◎ **Education** · Kyushu Institute of Technology
+- ⟳ **Learning** · learning
+- ✦ **Fun fact** · fun fact
+
+<!--### Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,cpp&theme=dark" alt="Languages"/>
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="Backend & Databases"/>
+
+**DevOps & Cloud**
+
+<img src="https://skillicons.dev/icons?i=git,vscode&theme=dark" alt="DevOps & Cloud"/>-->
+
+### Languages
+- 🇯🇵 **Japanese** · ![Native](https://img.shields.io/badge/-Native-00e87a?style=flat-square)
+- 🇬🇧 **English** · ![Conversational](https://img.shields.io/badge/-Conversational-ff8c42?style=flat-square)
+
+### GitHub Stats
+
+<div align="center">
+
 ![detailed-stats](https://github-readme-stats.vercel.app/api?username=pantsman-jp&count_private=true&include_all_commits=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![---](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-# 📝 Top Langs
-![top-langs-by-repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pantsman-jp)
-![top-langs-by-commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pantsman-jp)
-![---](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+</div>
 
-# 🏆 GitHub Trophies
+### Trophies
+
+<div align="center">
+
 ![Trophy](https://github-trophies.vercel.app/?username=pantsman-jp)
 
-<!--
-![additional-stats](https://github-readme-stats-api.n7s.dev/api?username=pantsman-jp&count_private=true&include_all_commits=true&show_icons=true&show=prs_merged,prs_merged_percentage)
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pantsman-jp&layout=compact)
-![commit-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pantsman-jp&utcOffset=9)
-![commit-graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pantsman-jp)
--->
+</div>
+
+### Activity
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pantsman-jp&bg_color=ffffff&color=000000&line=9be9a8&point=40c463&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+<div align="center">
+
+<sub>Made with <a href="https://lebedevnet.github.io/ReadmeForge/">ReadmeForge</a> · <a href="https://github.com/pantsman-jp">github.com/pantsman-jp</a></sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e87a,100:007a3d&height=120&section=footer" width="100%" alt="Footer wave"/>
+
+</div>
