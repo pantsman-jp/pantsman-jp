@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![snake](../img/github-contribution-grid-snake.svg)
+![snake](img/github-contribution-grid-snake.svg)
 
 </div>
 
