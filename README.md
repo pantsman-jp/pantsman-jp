@@ -36,6 +36,9 @@
 - 🇯🇵 **Japanese** · ![Native](https://img.shields.io/badge/-Native-00e87a?style=flat-square)
 - 🇬🇧 **English** · ![Conversational](https://img.shields.io/badge/-Conversational-ff8c42?style=flat-square)
 
+![top-langs-by-repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pantsman-jp)
+![top-langs-by-commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pantsman-jp)
+
 ### GitHub Stats
 
 <div align="center">
