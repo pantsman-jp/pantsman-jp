@@ -18,26 +18,32 @@
 - ⟳ **Learning** · learning
 - ✦ **Fun fact** · fun fact
 
-<!--### Stack
+<!--
+### Stack
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,cpp&theme=dark" alt="Languages"/>
+![](https://skillicons.dev/icons?i=py,cpp,haskell,md,latex)
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="Backend & Databases"/>
+![](https://skillicons.dev/icons?i=flask)
 
 **DevOps & Cloud**
 
-<img src="https://skillicons.dev/icons?i=git,vscode&theme=dark" alt="DevOps & Cloud"/>-->
+![](https://skillicons.dev/icons?i=git,github,vscode,windows)
+-->
 
 ### Languages
 - 🇯🇵 **Japanese** · ![Native](https://img.shields.io/badge/-Native-00e87a?style=flat-square)
 - 🇬🇧 **English** · ![Conversational](https://img.shields.io/badge/-Conversational-ff8c42?style=flat-square)
 
+<div align="center">
+
 ![top-langs-by-repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pantsman-jp)
 ![top-langs-by-commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pantsman-jp)
+
+</div>
 
 ### GitHub Stats
 
