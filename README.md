@@ -15,8 +15,8 @@
 - ⌖ **Location** · Kitakyushu, Japan
 - ⌗ **Experience** · 4th-year Student
 - ◎ **Education** · Kyushu Institute of Technology
-- ⟳ **Learning** · learning
-- ✦ **Fun fact** · fun fact
+- ⟳ **Learning** · Orbital Mechanics
+- ✦ **Fun fact** · Planetary Defense, Spaceguard
 
 <!--
 ### Stack
