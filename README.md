@@ -15,7 +15,7 @@
 - 📍 **Location** · Kitakyushu, Fukuoka, Japan
 - 🎓 **Experience** · 4th-year Student
 - 🏫 **Education** · Kyushu Institute of Technology
-- 🛰️ **Learning** · Orbital Mechanics
+- 🛰️ **Learning** · Orbital Mechanics, Rust
 - ☄️ **Fun fact** · Planetary Defense, Spaceguard
 
 <!--
