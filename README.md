@@ -15,7 +15,7 @@
 - 📍 **Location** · Kitakyushu, Fukuoka, Japan
 - 🎓 **Experience** · 4th-year Student
 - 🏫 **Education** · Kyushu Institute of Technology
-- 📝 **Learning** · Orbital Mechanics, Haskell
+- 📝 **Learning** · Orbital Mechanics
 - ☄️ **Fun fact** · Planetary Defense, Spaceguard, Competitive Programming
 
 <!--
@@ -66,8 +66,6 @@
 <div align="center">
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pantsman-jp&bg_color=ffffff&color=000000&line=9be9a8&point=40c463&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![commit-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pantsman-jp&theme=github&utcOffset=9)
 
 </div>
 
