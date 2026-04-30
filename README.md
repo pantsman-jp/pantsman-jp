@@ -27,11 +27,11 @@
 
 **Backend & Databases**
 
-![](https://skillicons.dev/icons?i=flask)
+![](https://skillicons.dev/icons?i=flask,sqlite)
 
 **DevOps & Cloud**
 
-![](https://skillicons.dev/icons?i=git,github,vscode,windows)
+![](https://skillicons.dev/icons?i=git,github,vscode,ubuntu,windows)
 -->
 
 ### Languages
