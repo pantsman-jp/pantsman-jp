@@ -15,8 +15,8 @@
 - 📍 **Location** · Kitakyushu, Fukuoka, Japan
 - 🎓 **Experience** · 4th-year Student
 - 🏫 **Education** · Kyushu Institute of Technology
-- 📝 **Learning** · Orbital Mechanics, Common Lisp
-- ☄️ **Fun fact** · Planetary Defense, Spaceguard, Competitive Programming
+- 📝 **Learning** · Orbital Mechanics
+- ☄️ **Fun fact** · Planetary Defense, Spaceguard
 
 <!--
 ### Stack
