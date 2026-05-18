@@ -31,7 +31,7 @@
 
 **DevOps & Cloud**
 
-![](https://skillicons.dev/icons?i=git,github,vscode,ubuntu,windows)
+![](https://skillicons.dev/icons?i=git,github,vscode,emacs,ubuntu,windows)
 -->
 
 ### Languages
