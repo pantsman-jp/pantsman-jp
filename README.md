@@ -23,7 +23,7 @@
 
 **Languages**
 
-![](https://skillicons.dev/icons?i=py,cpp,haskell,md,latex)
+![](https://skillicons.dev/icons?i=py,c,cpp,haskell,md,latex)
 
 **Backend & Databases**
 
