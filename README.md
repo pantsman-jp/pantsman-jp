@@ -18,23 +18,8 @@
 - 📝 **Learning** · Orbital Mechanics
 - ☄️ **Fun fact** · Competitive Programming, Planetary Defense, Spaceguard
 
-<!--
-### Stack
-
-**Languages**
-
-![](https://skillicons.dev/icons?i=py,c,cpp,haskell,md,latex)
-
-**Backend & Databases**
-
-![](https://skillicons.dev/icons?i=flask,sqlite)
-
-**DevOps & Cloud**
-
-![](https://skillicons.dev/icons?i=git,github,vscode,emacs,ubuntu,windows)
--->
-
 ### Languages
+
 - 🇯🇵 **Japanese** · ![Native](https://img.shields.io/badge/-Native-00e87a?style=flat-square)
 - 🇬🇧 **English** · ![Conversational](https://img.shields.io/badge/-Conversational-ff8c42?style=flat-square)
 
@@ -53,7 +38,7 @@
 
 <div align="center">
 
-[![detailed-stats](https://github-readme-stats.vercel.app/api?username=pantsman-jp&count_private=true&include_all_commits=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)]((https://github.com/anuraghazra/github-readme-stats))
+[![detailed-stats](https://github-readme-stats.vercel.app/api?username=pantsman-jp&count_private=true&include_all_commits=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -61,7 +46,7 @@
 
 <div align="center">
 
-![Trophy](https://github-trophies.vercel.app/?username=pantsman-jp)
+[![Trophy](https://github-trophies.vercel.app/?username=pantsman-jp)](https://github.com/lucthienphong1120/github-trophies)
 
 </div>
 
