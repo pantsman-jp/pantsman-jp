@@ -13,7 +13,7 @@
 <!-- bio -->
 
 - 📍 **Location** · Kitakyushu, Fukuoka, Japan
-- 🎓 **Experience** · 4th-year University Student
+- 🎓 **Experience** · Fourth-year undergraduate student
 - 🏫 **Education** · Kyushu Institute of Technology
 - 📝 **Learning** · Orbital Mechanics
 - ☄️ **Fun fact** · Competitive Programming, Planetary Defense, Spaceguard
