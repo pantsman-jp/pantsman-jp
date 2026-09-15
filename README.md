@@ -30,7 +30,7 @@
 ![top-langs-by-commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pantsman-jp)
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pantsman-jp&langs_count=10&layout=compact&card_width=470)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=pantsman-jp&layout=compact&langs_count=8&theme=light_github)](https://github-stats-extended.vercel.app/api/top-langs?username=pantsman-jp&layout=compact&langs_count=8&theme=light_github)
 
 </div>
 
@@ -38,7 +38,7 @@
 
 <div align="center">
 
-[![detailed-stats](https://github-readme-stats.vercel.app/api?username=pantsman-jp&count_private=true&include_all_commits=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=pantsman-jp&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=light_github)](https://github-stats-extended.vercel.app/api?username=pantsman-jp&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=light_github)
 
 </div>
 
