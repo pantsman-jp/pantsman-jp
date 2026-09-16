@@ -30,7 +30,7 @@
 ![top-langs-by-commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pantsman-jp)
 -->
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=pantsman-jp&layout=compact&langs_count=8&theme=light_github)](https://github-stats-extended.vercel.app/api/top-langs?username=pantsman-jp&layout=compact&langs_count=8&theme=light_github)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=pantsman-jp&layout=compact&langs_count=6&theme=light_github)](https://github-stats-extended.vercel.app/api/top-langs?username=pantsman-jp&layout=compact&langs_count=6&theme=light_github)
 
 </div>
 
