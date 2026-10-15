@@ -15,9 +15,10 @@
 - 📍 **Location** · Kitakyushu, Fukuoka, Japan
 - 🎓 **Experience** · Fourth-year undergraduate student
 - 🏫 **Education** · Kyushu Institute of Technology
-- 📝 **Learning** · Rust, Orbital Mechanics
+- 📝 **Learning** · Orbital Mechanics
 - ☄️ **Fun fact** · Competitive Programming, Planetary Defense, Spaceguard
 
+<!--
 ### Languages
 
 - 🇯🇵 **Japanese** · ![Native](https://img.shields.io/badge/-Native-00e87a?style=flat-square)
@@ -25,14 +26,10 @@
 
 <div align="center">
 
-<!--
-![top-langs-by-repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pantsman-jp)
-![top-langs-by-commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pantsman-jp)
--->
-
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=pantsman-jp&layout=compact&langs_count=6&theme=light_github)](https://github-stats-extended.vercel.app/api/top-langs?username=pantsman-jp&layout=compact&langs_count=6&theme=light_github)
 
 </div>
+-->
 
 ### GitHub Stats
 
