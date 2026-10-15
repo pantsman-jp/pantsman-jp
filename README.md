@@ -15,8 +15,9 @@
 - 📍 **Location** · Kitakyushu, Fukuoka, Japan
 - 🎓 **Experience** · Fourth-year undergraduate student
 - 🏫 **Education** · Kyushu Institute of Technology
-- 📝 **Learning** · Orbital Mechanics
-- ☄️ **Fun fact** · Competitive Programming, Planetary Defense, Spaceguard
+- 📝 **Learning** · Heuristic Optimization
+- 🔬 **Research** · Asteroid Deflection Simulation
+- 💡 **Interests** · Competitive Programming, Planetary Defense, Spaceguard
 
 <!--
 ### Languages
