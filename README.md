@@ -10,7 +10,8 @@
 
 ### About
 
-<!-- bio -->
+[![Rating](https://badgen.org/img/atcoder/pantsman/rating/algorithm?style=for-the-badge&label=RATING%28ALGORITHM%29)](https://atcoder.jp/users/pantsman?contestType=algo)
+[![Rating(Heuristic)](https://badgen.org/img/atcoder/pantsman/rating/heuristic?style=for-the-badge)](https://atcoder.jp/users/pantsman?contestType=heuristic)
 
 - 📍 **Location** · Kitakyushu, Fukuoka, Japan
 - 🎓 **Experience** · Fourth-year undergraduate student
@@ -19,18 +20,16 @@
 - 🔬 **Research** · Asteroid Deflection Simulation
 - 💡 **Interests** · Competitive Programming, Planetary Defense, Spaceguard
 
-<!--
 ### Languages
 
-- 🇯🇵 **Japanese** · ![Native](https://img.shields.io/badge/-Native-00e87a?style=flat-square)
-- 🇬🇧 **English** · ![Conversational](https://img.shields.io/badge/-Conversational-ff8c42?style=flat-square)
+- 🇯🇵 **Japanese** ![Native](https://img.shields.io/badge/-Native-00e87a?style=flat-square)
+- 🇬🇧 **English** ![Conversational](https://img.shields.io/badge/-Conversational-ff8c42?style=flat-square)
 
 <div align="center">
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=pantsman-jp&layout=compact&langs_count=6&theme=light_github)](https://github-stats-extended.vercel.app/api/top-langs?username=pantsman-jp&layout=compact&langs_count=6&theme=light_github)
 
 </div>
--->
 
 ### GitHub Stats
 
