@@ -10,7 +10,7 @@
 
 ### About
 
-[![Rating](https://badgen.org/img/atcoder/pantsman/rating/algorithm?style=for-the-badge&label=RATING%28ALGORITHM%29)](https://atcoder.jp/users/pantsman?contestType=algo)
+[![Rating](https://badgen.org/img/atcoder/pantsman/rating/algorithm?style=for-the-badge)](https://atcoder.jp/users/pantsman?contestType=algo)
 [![Rating(Heuristic)](https://badgen.org/img/atcoder/pantsman/rating/heuristic?style=for-the-badge)](https://atcoder.jp/users/pantsman?contestType=heuristic)
 
 - 📍 **Location** · Kitakyushu, Fukuoka, Japan
